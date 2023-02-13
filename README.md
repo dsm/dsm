@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a Mechatronics Enginner and I completed a double major in Electrical and Electronics Engineering.
+
+I am currently doing a master's in Computer Engineering.
+
+I'm currently working on a real-time control of medical device.
+
+I provide support for the open source projects I like to be better
+
 <!--
 **dsm/dsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
