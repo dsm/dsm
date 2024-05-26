@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a Mechatronics Enginner and I completed a double major in Electrical and Electronics Engineering.
+I'm a Mechatronics Engineer with a double major in Electrical and Electronics Engineering.
 
-I am currently doing a master's in Computer Engineering.
+I am currently doing a Masters in Mechatronics Engineering.
 
-I'm currently working on a real-time control of medical device.
+I'm currently working on real-time control of medical devices.
 
 I provide support for the open source projects I like to be better
 
